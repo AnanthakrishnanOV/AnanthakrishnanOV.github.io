@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ananthakrishnanov.github.io/sitemap.xml
